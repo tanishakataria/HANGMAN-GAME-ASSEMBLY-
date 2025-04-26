@@ -23,8 +23,6 @@ This project presents the development of a classic Hangman game implemented in *
 The game offers an interactive, menu-driven experience, focusing on low-level programming concepts like direct memory management, string manipulation, and structured control flow.  
 The goal of this project was to reinforce Assembly programming skills while also applying logical thinking to create a creative, playable console game.
 
----
-
 ## Table of Contents
 
 1. [Abstract](#abstract)  
@@ -46,8 +44,6 @@ The goal of this project was to reinforce Assembly programming skills while also
 Hangman is a classic word-guessing game where players attempt to guess a hidden word one letter at a time, with a limited number of incorrect attempts.  
 By implementing Hangman in Assembly Language, the project provided an opportunity to strengthen understanding of low-level system programming concepts, including loops, procedures, memory addressing, and ASCII handling.  
 It also challenged us to design clean, maintainable code in a language where small mistakes can easily cause errors.
-
----
 
 ## Objectives
 
@@ -135,8 +131,6 @@ The project was divided into clear, manageable phases:
 - *Replayability:*  
   - Replay without restarting the program.
 
----
-
 ## Challenges Faced
 
 - *String and Character Comparisons*  
@@ -154,7 +148,6 @@ The project was divided into clear, manageable phases:
 - *Memory and Stack Management*  
   Managing multiple procedures and passing variables between them demanded careful use of registers and stack operations.
 
----
 
 ## Results and Testing
 
@@ -176,8 +169,6 @@ The final Hangman game achieved all major objectives:
 | Invalid character input | Ignore input and reprompt | Passed |
 | Replay after win/loss | Restart game without exiting | Passed |
 
----
-
 ## Future Enhancements
 
 - *Difficulty Modes:*  
@@ -195,15 +186,13 @@ The final Hangman game achieved all major objectives:
 - *Multiplayer Mode:*  
   Two players can compete by turn-based guessing.
 
----
-
 ## Conclusion
 
 Developing the Hangman game in Assembly Language was a rewarding and educational experience.  
 The project reinforced fundamental programming concepts like loops, conditions, procedures, stack management, and direct user interaction in a low-level language.  
 By combining creativity with technical knowledge, this project made a classic game come to life at the system level, providing valuable hands-on learning and a deeper appreciation for programming close to the hardware.
 
----
+
 
 ## References
 
@@ -212,4 +201,4 @@ By combining creativity with technical knowledge, this project made a classic ga
 - MASM (Microsoft Macro Assembler) Official Documentation.  
 - Online resources for ASCII art and Hangman game mechanics.
 
----
+
